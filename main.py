@@ -4,10 +4,10 @@ import requests
 import urllib
 
 
-TOKEN = input("Bot Token Gir: ")
+TOKEN = input("6382878899:AAGZwyZdKhFwK6d72aC731nwcixImt1zMIU: ")
 
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(6382878899:AAGZwyZdKhFwK6d72aC731nwcixImt1zMIU)
 
 print("BOT AKTİF EDİLDİ AB")
 
